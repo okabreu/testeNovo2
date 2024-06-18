@@ -1,0 +1,7 @@
+npm install vue-tsc --save-dev
+npm install primevue
+npm install typescript --save-dev
+npm install sass
+npm install @sidebase/nuxt-auth
+npm install primeicons primeflex
+npm install nuxt-primevue --save-dev
